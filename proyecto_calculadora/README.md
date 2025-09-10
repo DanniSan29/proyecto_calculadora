@@ -12,3 +12,5 @@ Archivos principales:
 Ejecutar:
 pip install -r requirements.txt
 python main.py
+
+O Ejecutar: Desde Spyder main.py y hacer click en RUN
