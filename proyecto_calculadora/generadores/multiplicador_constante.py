@@ -1,6 +1,6 @@
 """
 Generador Multiplicador Constante
-x_{i+1} = digitos centrales de (c * x_i)
+
 """
 from typing import Tuple, List
 
