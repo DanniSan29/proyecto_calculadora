@@ -1,5 +1,5 @@
 """
-Generador de Productos Medios (Mid-Product)
+Generador de Productos Medios 
 """
 from typing import Tuple, List
 
