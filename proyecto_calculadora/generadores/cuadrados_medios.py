@@ -1,5 +1,5 @@
 """
-Generador de Cuadrados Medios (Mid-Square)
+Generador de Cuadrados Medios 
 """
 from typing import Tuple, List
 
